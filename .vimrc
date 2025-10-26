@@ -205,6 +205,10 @@ nnoremap <leader>y "+y
 vnoremap <leader>y "+y
 nnoremap <leader>Y "+Y
 
+" Copy from system clipboard
+nnoremap <leader>p "+p
+vnoremap <leader>p "+p
+
 " Delete without overwriting clipboard
 nnoremap <leader>d "_d
 vnoremap <leader>d "_d
