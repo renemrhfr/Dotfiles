@@ -43,3 +43,5 @@ set ideacopypreprocess true
 
 let mapleader = " "
 let maplocalleader = " "
+
+nnoremap <leader>s yiw:%s/\<\<<C-r>"\>\>/<C-r>"/gI<Left><Left><Left>
