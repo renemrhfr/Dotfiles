@@ -165,7 +165,7 @@ set statusline=%F%m%r%h%w\ [%{&filetype}]\ %=%l:%c\ %P
 set synmaxcol=300
 
 " Disable swap files to avoid clutter (LazyVim avoids swap files)
-"set noswapfile
+set noswapfile
 
 " --- Completion ---
 " Enable basic completion with <C-n> (mimics LazyVim’s completion)
