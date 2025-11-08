@@ -12,7 +12,6 @@ endfunction
 
 
 " --- Java-Specific Settings ---
-" Enable Java syntax highlighting (built-in)
 au FileType java setlocal syntax=java
 
 " Enable enhanced highlighting for Java
@@ -24,7 +23,6 @@ au FileType java setlocal tabstop=4 shiftwidth=4 expandtab
 
 " Enable folding based on Java syntax (e.g., methods, classes)
 au FileType java setlocal foldmethod=syntax
-
 
 " Highlight Java-specific keywords (enhance built-in highlighting)
 au FileType java hi link javaIdentifier Identifier
