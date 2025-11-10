@@ -1,4 +1,4 @@
-# Collection of my Dotfiles and Configs for my Dev-Setup
+# I use vim, btw
 
 ### Special Thanks / Credits
 Everforest Theme is by [sainnhe](https://github.com/sainnhe/everforest/).
