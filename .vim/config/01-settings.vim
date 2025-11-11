@@ -66,6 +66,8 @@ set synmaxcol=50
 " Disable swap files to avoid clutter (LazyVim avoids swap files)
 set noswapfile
 
+" Do not Fold when opening File.
+set nofoldenable
 
 " FUZZY FINDER (Telescope alternative using built-in features)
 " Search down into subfolders for fuzzy finding
