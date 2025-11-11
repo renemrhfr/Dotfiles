@@ -1124,7 +1124,7 @@
         <option name="INLINE_PARAMETER_HINT">
             <value>
                 <option name="FOREGROUND" value="7a8478" />
-				<option name="BACKGROUND" value="425047"/>
+                <option name="BACKGROUND" value="3d484d" />
             </value>
         </option>
 
@@ -1152,14 +1152,12 @@
             <value>
                 <option name="EFFECT_COLOR" value="4f585e" />
                 <option name="ERROR_STRIPE_COLOR" value="4f585e" />
-				<option name="BACKGROUND" value="425047"/>
             </value>
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
                 <option name="EFFECT_COLOR" value="4f585e" />
                 <option name="ERROR_STRIPE_COLOR" value="4f585e" />
-				<option name="BACKGROUND" value="425047"/>
             </value>
         </option>
 
