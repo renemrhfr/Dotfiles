@@ -10,7 +10,7 @@
       "infoForeground": "#859289",
       "selectionBackground": "#543a48",
       "selectionForeground": "#d3c6aa",
-      "selectionInactiveBackground": "#3d484d",
+      "selectionInactiveBackground": "#543a48",
       "borderColor": "#4f585e",
       "separatorColor": "#4f585e",
       "lightSelectionBackground": "#3d484d"
@@ -43,7 +43,6 @@
       "background": "#343f44",
       "selectionBackground": "#543a48",
       "nonEditableBackground": "#2d353b",
-      "padding": "5,5,5,5",
       "ArrowButton": {
         "background": "#343f44",
         "nonEditableBackground": "#2d353b"
@@ -60,10 +59,6 @@
       "inactiveErrorFocusColor": "#e67e80",
       "warningFocusColor": "#dbbc7f",
       "inactiveWarningFocusColor": "#dbbc7f"
-    },
-    "Content": {
-      "background": "#2d353b",
-      "selectionBackground": "#543a48"
     },
     "Counter": {
       "background": "#a7c080",
@@ -85,7 +80,7 @@
     },
     "EditorTabs": {
       "background": "#232a2e",
-      "underlinedTabBackground": "#2d353b",
+      "underlinedTabBackground": "#5b666b",
       "hoverBackground": "#343f44",
       "inactiveUnderlineColor": "#475258",
       "underlineColor": "#a7c080",
@@ -355,7 +350,6 @@
       "Objects.Purple": "#d699b6",
       "Objects.BlackText": "#2d353b",
       "Objects.YellowDark": "#e69875",
-      "Objects. BlueDark": "#83c092",
       "Objects.GreenAndroid": "#a7c080",
       "Checkbox.Background.Default.Dark": "#343f44",
       "Checkbox.Border.Default.Dark": "#859289",
